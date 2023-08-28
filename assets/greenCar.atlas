@@ -1,0 +1,69 @@
+
+greenCar.png
+size: 1024, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+11
+  rotate: false
+  xy: 72, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 422, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 212, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 562, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 352, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 142, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 492, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 282, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 2, 2
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
